@@ -19,6 +19,8 @@ razorpay:
 
 server:
   port: 7072
+  servlet:
+    context-path: /api2
 
 management:
   endpoints:

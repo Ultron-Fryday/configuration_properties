@@ -29,6 +29,8 @@ spring:
 
 server:
   port: 7075
+  servlet:
+    context-path: /api5
 
 management:
   endpoints:

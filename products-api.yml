@@ -22,3 +22,5 @@ management:
         include: "*"
 server:
   port: 7071
+  servlet:
+    context-path: /api1
